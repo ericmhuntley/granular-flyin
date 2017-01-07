@@ -3,9 +3,9 @@
  * 
  * Built using Daniel Shiffman's "Explode" sketch as a base. 
  * 
- * Mouse horizontal location controls breaking apart of image and 
- * Maps pixels from a 2D image into 3D space. Pixel brightness controls 
- * translation along z axis. 
+ * Animates breaking apart of image and 
+ * Maps pixels from a 2D image into 3D space.
+ * Saves exported frames as a numbered series of TIF files.
  */
  
 PImage img;       // The source image
