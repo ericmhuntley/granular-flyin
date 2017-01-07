@@ -3,7 +3,7 @@
  * 
  * Built using Daniel Shiffman's "Explode" sketch as a base. 
  * 
- * Animates breaking apart of image and 
+ * Animates breaking apart of image, converging on z=0 plane.
  * Maps pixels from a 2D image into 3D space.
  * Saves exported frames as a numbered series of TIF files.
  */
